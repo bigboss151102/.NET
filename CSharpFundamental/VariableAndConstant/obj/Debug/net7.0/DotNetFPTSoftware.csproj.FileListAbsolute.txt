@@ -1,0 +1,15 @@
+E:\DotNetFPTSoftware\bin\Debug\net7.0\DotNetFPTSoftware.exe
+E:\DotNetFPTSoftware\bin\Debug\net7.0\DotNetFPTSoftware.deps.json
+E:\DotNetFPTSoftware\bin\Debug\net7.0\DotNetFPTSoftware.runtimeconfig.json
+E:\DotNetFPTSoftware\bin\Debug\net7.0\DotNetFPTSoftware.dll
+E:\DotNetFPTSoftware\bin\Debug\net7.0\DotNetFPTSoftware.pdb
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.csproj.AssemblyReference.cache
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.AssemblyInfoInputs.cache
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.AssemblyInfo.cs
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.csproj.CoreCompileInputs.cache
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.dll
+E:\DotNetFPTSoftware\obj\Debug\net7.0\refint\DotNetFPTSoftware.dll
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.pdb
+E:\DotNetFPTSoftware\obj\Debug\net7.0\DotNetFPTSoftware.genruntimeconfig.cache
+E:\DotNetFPTSoftware\obj\Debug\net7.0\ref\DotNetFPTSoftware.dll
