@@ -1,0 +1,15 @@
+D:\SumarisingText\SumarisingText\bin\Debug\net7.0\SumarisingText.exe
+D:\SumarisingText\SumarisingText\bin\Debug\net7.0\SumarisingText.deps.json
+D:\SumarisingText\SumarisingText\bin\Debug\net7.0\SumarisingText.runtimeconfig.json
+D:\SumarisingText\SumarisingText\bin\Debug\net7.0\SumarisingText.dll
+D:\SumarisingText\SumarisingText\bin\Debug\net7.0\SumarisingText.pdb
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.csproj.AssemblyReference.cache
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.GeneratedMSBuildEditorConfig.editorconfig
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.AssemblyInfoInputs.cache
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.AssemblyInfo.cs
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.csproj.CoreCompileInputs.cache
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.dll
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\refint\SumarisingText.dll
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.pdb
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\SumarisingText.genruntimeconfig.cache
+D:\SumarisingText\SumarisingText\obj\Debug\net7.0\ref\SumarisingText.dll

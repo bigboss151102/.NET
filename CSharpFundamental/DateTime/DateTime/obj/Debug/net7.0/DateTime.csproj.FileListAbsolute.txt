@@ -1,0 +1,15 @@
+D:\DateTime\DateTime\bin\Debug\net7.0\DateTime.exe
+D:\DateTime\DateTime\bin\Debug\net7.0\DateTime.deps.json
+D:\DateTime\DateTime\bin\Debug\net7.0\DateTime.runtimeconfig.json
+D:\DateTime\DateTime\bin\Debug\net7.0\DateTime.dll
+D:\DateTime\DateTime\bin\Debug\net7.0\DateTime.pdb
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.AssemblyReference.cache
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.dll
+D:\DateTime\DateTime\obj\Debug\net7.0\refint\DateTime.dll
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.pdb
+D:\DateTime\DateTime\obj\Debug\net7.0\DateTime.genruntimeconfig.cache
+D:\DateTime\DateTime\obj\Debug\net7.0\ref\DateTime.dll

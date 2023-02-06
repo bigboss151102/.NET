@@ -1,0 +1,15 @@
+D:\ProceduralProgramming\ProceduralProgramming\bin\Debug\net7.0\ProceduralProgramming.exe
+D:\ProceduralProgramming\ProceduralProgramming\bin\Debug\net7.0\ProceduralProgramming.deps.json
+D:\ProceduralProgramming\ProceduralProgramming\bin\Debug\net7.0\ProceduralProgramming.runtimeconfig.json
+D:\ProceduralProgramming\ProceduralProgramming\bin\Debug\net7.0\ProceduralProgramming.dll
+D:\ProceduralProgramming\ProceduralProgramming\bin\Debug\net7.0\ProceduralProgramming.pdb
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.csproj.AssemblyReference.cache
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.AssemblyInfoInputs.cache
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.AssemblyInfo.cs
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.csproj.CoreCompileInputs.cache
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.dll
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\refint\ProceduralProgramming.dll
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.pdb
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ProceduralProgramming.genruntimeconfig.cache
+D:\ProceduralProgramming\ProceduralProgramming\obj\Debug\net7.0\ref\ProceduralProgramming.dll

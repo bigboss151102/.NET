@@ -1,0 +1,15 @@
+D:\ArraysPart2\ArraysPart2\bin\Debug\net7.0\ArraysPart2.exe
+D:\ArraysPart2\ArraysPart2\bin\Debug\net7.0\ArraysPart2.deps.json
+D:\ArraysPart2\ArraysPart2\bin\Debug\net7.0\ArraysPart2.runtimeconfig.json
+D:\ArraysPart2\ArraysPart2\bin\Debug\net7.0\ArraysPart2.dll
+D:\ArraysPart2\ArraysPart2\bin\Debug\net7.0\ArraysPart2.pdb
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.csproj.AssemblyReference.cache
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.AssemblyInfoInputs.cache
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.AssemblyInfo.cs
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.csproj.CoreCompileInputs.cache
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.dll
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\refint\ArraysPart2.dll
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.pdb
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ArraysPart2.genruntimeconfig.cache
+D:\ArraysPart2\ArraysPart2\obj\Debug\net7.0\ref\ArraysPart2.dll

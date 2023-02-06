@@ -1,0 +1,15 @@
+D:\StringBuilder\StringBuilder\bin\Debug\net7.0\StringBuilder.exe
+D:\StringBuilder\StringBuilder\bin\Debug\net7.0\StringBuilder.deps.json
+D:\StringBuilder\StringBuilder\bin\Debug\net7.0\StringBuilder.runtimeconfig.json
+D:\StringBuilder\StringBuilder\bin\Debug\net7.0\StringBuilder.dll
+D:\StringBuilder\StringBuilder\bin\Debug\net7.0\StringBuilder.pdb
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.csproj.AssemblyReference.cache
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.AssemblyInfoInputs.cache
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.AssemblyInfo.cs
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.csproj.CoreCompileInputs.cache
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.dll
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\refint\StringBuilder.dll
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.pdb
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\StringBuilder.genruntimeconfig.cache
+D:\StringBuilder\StringBuilder\obj\Debug\net7.0\ref\StringBuilder.dll
