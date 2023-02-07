@@ -1,0 +1,11 @@
+D:\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+D:\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+D:\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+D:\Exercise2\Exercise2\obj\Debug\Exercise2.pdb

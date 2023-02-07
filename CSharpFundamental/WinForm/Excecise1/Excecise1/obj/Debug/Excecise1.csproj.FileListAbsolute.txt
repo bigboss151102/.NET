@@ -1,0 +1,11 @@
+D:\Excecise1\Excecise1\bin\Debug\Excecise1.exe.config
+D:\Excecise1\Excecise1\bin\Debug\Excecise1.exe
+D:\Excecise1\Excecise1\bin\Debug\Excecise1.pdb
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.csproj.AssemblyReference.cache
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.csproj.SuggestedBindingRedirects.cache
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.Properties.Resources.resources
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.csproj.GenerateResource.cache
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.csproj.CoreCompileInputs.cache
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.exe
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.pdb
+D:\Excecise1\Excecise1\obj\Debug\Excecise1.Form1.resources
